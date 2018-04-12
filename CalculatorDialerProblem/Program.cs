@@ -10,6 +10,7 @@ namespace CalculatorDialerProblem
     {
         static void Main(string[] args)
         {
+            
             //var watch = new System.Diagnostics.Stopwatch();
             TimeSpan startTime;
             TimeSpan duration;
